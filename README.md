@@ -1,4 +1,4 @@
-# 💫Hey there! I'm **Saad Abbas**,
+# 💫Hey there! I'm **Usama Abbas**,
 
 A 🎓 Computer Science undergraduate at **UET Lahore**, . I'm a passionate **full-stack** developer and tech enthusiast focused on crafting scalable and modern web applications that solve real-world problems. Always learning, always building. 🚀
 
